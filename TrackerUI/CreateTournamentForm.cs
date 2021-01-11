@@ -16,5 +16,20 @@ namespace TrackerUI
         {
             InitializeComponent();
         }
+
+        private void teamOneScoreLabel_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void teamOneScoreLabel_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void roundLabel_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
